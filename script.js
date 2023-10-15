@@ -4,7 +4,7 @@ var bulb = document.getElementById('bulb');
 function toggleBulb() {
   BulbOn = !BulbOn;
   if (BulbOn) {
-    bulb.src = 'https://cdn.mos.cms.futurecdn.net/HaPnm6P7TZhPQGGUxtDjAg-320-80.jpg';
+    bulb.src = 'https://images.freeimages.com/images/large-previews/07c/light-bulb-2-1427493.jpg?fmt=webp&w=350.jpg';
     btn.src = "https://cdn-icons-png.flaticon.com/512/4115/4115420.png";
     
     // Change to the bulb image when it's on
