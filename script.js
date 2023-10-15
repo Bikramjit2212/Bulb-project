@@ -12,7 +12,7 @@ function toggleBulb() {
   } else {
     bulb.src = 'https://www.livehome3d.com/assets/img/articles/comparinglightbulbtypes/incandescent-bulb@2x.jpg'; 
     btn.src = "https://cdn-icons-png.flaticon.com/512/889/889731.png";
-    bulb.style.backgroundColor = "black";
+  
     
     // Change back to the bulb off image
     
